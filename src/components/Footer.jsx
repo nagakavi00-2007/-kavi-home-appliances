@@ -48,7 +48,7 @@ export default function Footer() {
             Your trusted destination for premium home appliances. Quality products, genuine warranty, and reliable service since 1985.
           </p>
           <div className="mt-4 space-y-2 text-sm">
-            <p className="flex items-center gap-2"><MapPin size={15} className="text-accent" /> 42 MG Road, Bengaluru, Karnataka 560001</p>
+            <p className="flex items-center gap-2"><MapPin size={15} className="text-accent" /> No. 25, Anna Nagar Main Road, Anna Nagar, Chennai, Tamil Nadu – 600040, India</p>
             <p className="flex items-center gap-2"><Phone size={15} className="text-accent" /> 1800-3000-8282</p>
             <p className="flex items-center gap-2"><Mail size={15} className="text-accent" /> care@kavi.in</p>
           </div>

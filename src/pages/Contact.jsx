@@ -46,7 +46,7 @@ export default function Contact() {
         <div className="space-y-4">
           <div className="rounded-2xl border border-border p-6 space-y-4">
             <h2 className="font-semibold">Store Information</h2>
-            <div className="flex gap-3"><MapPin size={20} className="text-brand shrink-0" /><p className="text-sm text-muted-foreground">42 MG Road, Bengaluru, Karnataka 560001, India</p></div>
+            <div className="flex gap-3"><MapPin size={20} className="text-brand shrink-0" /><p className="text-sm text-muted-foreground">No. 25, Anna Nagar Main Road, Anna Nagar, Chennai, Tamil Nadu – 600040, India</p></div>
             <div className="flex gap-3"><Phone size={20} className="text-brand shrink-0" /><p className="text-sm text-muted-foreground">1800-3000-8282 (Toll Free)</p></div>
             <div className="flex gap-3"><Mail size={20} className="text-brand shrink-0" /><p className="text-sm text-muted-foreground">care@kavi.in</p></div>
             <div className="flex gap-3"><Clock size={20} className="text-brand shrink-0" /><div className="text-sm text-muted-foreground"><p>Mon – Sat: 9:30 AM – 8:30 PM</p><p>Sunday: 10:00 AM – 6:00 PM</p></div></div>
